@@ -1,0 +1,91 @@
+.a1{
+    text-align: center;font-size: 30px;
+}
+.a2{
+    border: 2px solid blue;text-decoration: none;color: blueviolet;text-align: center;
+}
+
+.h1{
+    text-align: center;color: black;font-family: Arial, Helvetica, sans-serif;
+}
+.img1{
+    width: 30%;height: 400px;
+}
+.img2{
+    width: 30%;height: 400px;
+}
+.img3{
+    width: 30%;height: 400px;
+}
+.img4{
+    width: 30%;height: 400px;
+}
+.img5{
+    width: 30%;height: 400px;
+}
+.img6{
+    width: 30%;height: 400px
+}
+.tb1{
+    border-collapse: collapse;text-align: center;margin: auto;width: 30px;height: 30px;background-color: #fff;
+}
+.h2{
+    text-align: center;font-family: Arial, Helvetica, sans-serif;
+}
+.tb2{
+    border-collapse: collapse;text-align: center;margin: auto;height: 200px;width: 1000px;background-color: #fff;
+}
+.h3{
+    text-align: center;font-family: Arial, Helvetica, sans-serif
+}
+.h4{
+    text-align: center;font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.img7{
+    width: auto;height: 300px;border-radius: 200px;
+}
+.img8{
+    width: auto;height: 300px;border-radius: 200px;
+}
+.img9{
+    width: auto;height: 300px;border-radius: 200px;
+}
+.img0{
+    width: auto;height: 300px;border-radius: 200px;
+}
+.td1{
+    border:2px solid blue;background-color: aqua;
+}
+.td2{
+    border:2px solid blue;background-color: #fff;
+}
+.td3{
+    border: 2px solid black;
+}
+.python{
+    height: 20px;
+}
+.JavaScript{
+    height: 20px;
+}
+.kotlin{
+    height: 20px;
+}
+.rust{
+    height: 30px;
+}
+.b1{
+    background-color: pink;
+}
+.jpg{
+    height: 100px;border-radius: 400px;
+}
+.pp{
+    text-align: center;
+}
